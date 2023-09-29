@@ -1,0 +1,15 @@
+.box-container {
+    display: block;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+}
+input {
+    margin: .2rem 0 .2rem;
+}
+label {
+    margin: 4rem 0 .2rem;
+}
+.input-box {
+    margin: 0 5rem 0;
+}
